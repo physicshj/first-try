@@ -1,2 +1,2 @@
 # first-try
-练个手
+first learn how to use git
